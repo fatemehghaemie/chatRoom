@@ -1,1 +1,1 @@
-# chatRoom
+Hi, this program is a simple chat room where chats are displayed in the console. It’s written in Java. The program consists of two main parts: the server and the client. Initially, the server is executed and listens to requests received from clients. Clients connect to the server using an address and a port number.
